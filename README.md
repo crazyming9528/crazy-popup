@@ -7,4 +7,6 @@ npm run build
 
 ### 编译后的js  位于dist/index.bundle.js
 
-### demo: dist/test.html 
+### demo: dist/inde.html
+
+### 在线demo :  demo.crazyming.cn?link=popup/dist/index.html
