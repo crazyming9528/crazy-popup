@@ -9,4 +9,4 @@ npm run build
 
 ### demo: dist/inde.html
 
-### 在线demo :  demo.crazyming.cn?link=popup/dist/index.html
+### 在线demo :  [http://demo.crazyming.cn?link=popup](demo.crazyming.cn?link=popup)
