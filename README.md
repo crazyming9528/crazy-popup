@@ -10,6 +10,7 @@ npm run build
 ### demo: dist/inde.html
 
 ### 在线demo :  [http://demo.crazyming.cn?link=popup](http://demo.crazyming.cn?link=popup)
+### blog介绍 : [https://www.crazyming.cn/note/996/](https://www.crazyming.cn/note/996/)
 
 
 ### 使用方式：
